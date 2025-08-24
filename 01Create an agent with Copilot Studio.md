@@ -18,12 +18,14 @@
 - 自分で作る必要があります。＋ボタンから詳細／生成型の回答を選択します。
 - 変数の選択は、システム／Activity.Textを選択
 <img width="348" height="500" alt="image" src="https://github.com/user-attachments/assets/63c964e3-af59-4c76-ae5c-6d6b10924c9d" />
+
 - データソースは「選択したソースのみを検索する」にチェックを付け、「経費ポリシー.docx（翻訳したドキュメント）」を選択します。
 <img width="333" height="540" alt="image" src="https://github.com/user-attachments/assets/ec142d7b-4b30-4638-8638-07f976691042" />
 
 
 ## エージェントを公開する
 特になし
+
 
 
 
