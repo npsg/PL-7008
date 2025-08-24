@@ -16,4 +16,4 @@
 特になし
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> モデル駆動アプリは、1つの環境にあるDataverseを基盤として構築されます。その環境内のテーブルやデータを利用してアプリが動作するため、アプリごとに> Dataverse環境を切り替えることはできません。基本的には、1つの環境を前提にアプリを設計・運用します。
