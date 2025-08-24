@@ -15,5 +15,5 @@
 ## Task 1.3 – Test data
 特になし
 
-> [!NOTE] Dataverseと環境
+> [!NOTE]
 > Useful information that users should know, even when skimming content.
