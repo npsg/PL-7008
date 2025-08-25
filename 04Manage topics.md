@@ -13,4 +13,6 @@
 
 ## Exercise 3 - Author topics manually
 ### Task 3.1 - Create a topic from blank
+- そのまま実行
 ### Task 3.2 - Add trigger phrases
+- そのまま実行
