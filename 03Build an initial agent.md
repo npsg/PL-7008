@@ -12,7 +12,7 @@
 4. 不動産物件の予約作成に関するトピックのエージェントを作成する
 5. 「作成」ボタンの右側にある「･･･」を選択し、「エージェントの言語（ja-JP）を更新する」を選択した後、「en-US」に切り替えます。
 <ol start="7">
-7. ここで、Bookingsが表示されない場合は環境が選択されていないか、前のトピック「Import Dataverse solution」が失敗しています。
+<li>ここで、Bookingsが表示されない場合は環境が選択されていないか、前のトピック「Import Dataverse solution」が失敗しています。</li>
 </ol>
 
 ## Exercise 2 - Add Generative AI answers
