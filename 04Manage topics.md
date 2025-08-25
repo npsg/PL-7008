@@ -21,7 +21,7 @@
 <img width="723" height="654" alt="image" src="https://github.com/user-attachments/assets/0a6c658b-7dd4-4448-9b1e-225373500b6f" />
 
 5. ここは意図通りかどうか不明ですが、「質問する」を追加して、はいかいいかを聞きます。特定から「エンティティの作成」を選択し、「閉じているリスト」からエンティティ名「はいいいえ」、リスト項目「はい」「いいえ」を追加して、保存します。
-6. トピック管理から「現在のトピックを終了する」を追加します。
+6. トピック管理から「現在のトピックを終了する」を追加します。テストしてみてください。
 <img width="421" height="438" alt="image" src="https://github.com/user-attachments/assets/e5f92715-9618-4781-b597-bc4bc5123be3" />
 
 
