@@ -14,7 +14,7 @@
 
 2. 「知識」タブではなく、「サポート情報」タブ
 
-5. Conversational boosting systemトピックはないので、
+5. Conversational boosting systemトピックは、システムカテゴリにありますが、万が一無ければ、
 - 自分で作る必要があります。＋ボタンから詳細／生成型の回答を選択します。
 - 変数の選択は、システム／Activity.Textを選択
 <img width="348" height="500" alt="image" src="https://github.com/user-attachments/assets/63c964e3-af59-4c76-ae5c-6d6b10924c9d" />
@@ -25,6 +25,7 @@
 
 ## エージェントを公開する
 特になし
+
 
 
 
