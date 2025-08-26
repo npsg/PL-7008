@@ -6,7 +6,7 @@
   
 ## Exercise 2 - Create topics with natural language
 ### Task 2.1 – Add a topic using copilot
-- 「トピックの追加」から「Copilotで説明から作成」から選べない場合は演習をスキップし、Exercise 3に進むか、「自力で作る」に進んでください。
+- 「トピックの追加」から「Copilotで説明から作成」から選べない場合は演習をスキップし、Exercise 3に進むか、このページの「自力で作る」に進んでください。
 ### Task 2.2 – Update nodes with natural language
 ### Task 2.3 – Add nodes with natural language
 ### Task 2.4 - Test the topic
